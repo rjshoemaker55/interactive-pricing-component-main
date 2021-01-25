@@ -1,0 +1,18 @@
+body {
+  font-family: 'Manrope', sans-serif;
+}
+
+.container {
+  width: 40%;
+  margin: 130px auto 0 auto;
+}
+
+.header-wrapper {
+  margin-bottom: 110px;
+  text-align: center;
+}
+
+.main-header {
+  font-size: 25px;
+  font-weight: 800;
+}
